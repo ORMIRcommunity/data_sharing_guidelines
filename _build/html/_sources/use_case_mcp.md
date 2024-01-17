@@ -75,4 +75,6 @@ This is my hand and I have scanned it many times with XT1 and XT2 as testing mat
 
 -   **License: CC BY-NC**
 
--   **Access instructions:** Send request at: [vincent.stadelmann\@kws.ch](mailto:vincent.stadelmann@kws.ch)
+-   **Cite:** Stadelmann, V. (2024). HRpQCT Hand MCP for JWS. Zenodo. doi: [10.5281/zenodo.10522673](https://doi.org/10.5281/zenodo.10522673)
+
+-   **Access instructions:** download at <https://doi.org/10.5281/zenodo.10522673>
