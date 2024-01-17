@@ -6,5 +6,7 @@ root: intro
 chapters:
 - file: ConsentForms
 - file: consent_templates
+- file: data_usage_agreements
 - file: data_sharing_agreements
+- file: data_sharing_templates
 - file: use_case_mcp

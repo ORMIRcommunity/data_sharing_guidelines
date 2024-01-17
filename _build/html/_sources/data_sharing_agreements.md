@@ -26,6 +26,3 @@ The data sharing agreement ought to undergo scrutiny by the legal departments of
 
 ------------------------------------------------------------------------
 
-## Templates
-
--   [Data sharing agreement template from Schulthess Klinik Zürich](https://drive.google.com/file/d/1qrMtr6cI6faMiNTCtsPCy36jpxcJAK0k/view?usp=sharing).
