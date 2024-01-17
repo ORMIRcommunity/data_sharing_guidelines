@@ -1,8 +1,8 @@
 # Sample Consent Forms from other Institutions
 
-Here is a compilation of data sharing agreement sections that can be used for your study.
+Here is a compilation of data sharing agreement sections that may be useful depending on your jurisdiction.
 
-## **1. University of Calgary (Conjoint Health Research Ethics Board)- consent form wording**.
+## **1. University of Calgary (Conjoint Health Research Ethics Board), Canada- consent form wording**.
 
 *Please note that this is not a “blanket” consent, but part of a study-specific consent form. If the participant agrees to use of the data in future research, a new ethics application would be required that describes the new study, and the source of data. However we are not required to ask each participant to reconsent if they have already agreed via the text below.*
 
