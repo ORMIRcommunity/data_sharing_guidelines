@@ -60,9 +60,9 @@ Consent form link (and in google folder): <https://www.ukbiobank.ac.uk/media/05l
 
 ## 5. NIH
 
-Since January 2023 NIH requires Data Management and Sharing Plans as part of new applications for funing. Complete details are documented here:
+Since January 2023 NIH requires Data Management and Sharing Plans as part of new applications for funding. Complete details are documented here:
 
-[*https://sharing.nih.gov/*](https://sharing.nih.gov/){.uri}
+<https://sharing.nih.gov/>
 
 General considerations and guidelines for languaged used for incormed consent are included in the following document and are worth a careful review.
 
@@ -70,7 +70,7 @@ source: <https://osp.od.nih.gov/wp-content/uploads/Informed-Consent-Resource-for
 
 We have adapted this language for MSK imaging applications, excluded language around biospecimens. If you plan to collect biospecimens as part of your study and need to include consent language to share access to biospecimens, then please refer to the original language linked in the above document.
 
-#### Description
+#### [Description]{.underline}
 
 *This study is collecting data from you. We would like to make your data available for other research studies that may be done in the future. The research may be about similar diseases or conditions to this study. However, research could also be about unrelated diseases, conditions, or other types of research. These studies may be done by researchers at this institution or other institutions, including commercial entities. Our goal is to make more research possible. We plan to keep your data for* **[Insert time frame as indicated in the study protocol].**
 
@@ -84,7 +84,7 @@ We have adapted this language for MSK imaging applications, excluded language ar
 
 *Your name and identifying information will be removed from any data you provide before they are shared with other researchers. Researchers cannot easily link your identifying information to the data.*
 
-#### Consent/Withdrawal
+#### [Consent/Withdrawal]{.underline}
 
 **Option 1: When sharing of data will be optional (e.g., for studies** **that have potential benefit):**
 
@@ -102,8 +102,7 @@ We have adapted this language for MSK imaging applications, excluded language ar
 
 *Participating in this study means you agree to share your data. You can change your mind later, but researchers might still use your data if they have already been shared. If you do not want your data used for other projects, you should not participate in this study.*
 
-#### 
-Risks/Benefits
+#### [**Risks/Benefits**]{.underline}
 
 **[Risks]** *We will do our best to protect your data during storage and when they are shared. However, there remains a possibility that someone could identify you. There is also the possibility that unauthorized people might access your data. In either case, we cannot reduce the risk to zero.*
 
