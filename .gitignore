@@ -1,6 +1,6 @@
 OpenBrain2MSK_Ultimate_consent_form.odt
 .Rproj.user
 .DS_Store
-.ipynb_checkpoints/*
 *.Rproj
 _build/*
+.ipynb_checkpoints/*
