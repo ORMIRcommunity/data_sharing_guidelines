@@ -2,12 +2,21 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: index 
 chapters:
-- file: ConsentForms
-- file: consent_templates
-- file: data_usage_agreements
-- file: data_sharing_agreements
-- file: data_sharing_templates
-- file: use_case_mcp
-- file: resources
+- file: cf
+- file: dua
+- file: dsa
+- file: anonymization
+- file: repositories
+- file: references
+# - file: use_case_mcp
+# - file: resources
+# - file: anonymization
+# - file: repositories
+# - file: FAQ
+# - file: ConsentForms
+# - file: consent_templates
+# - file: data_usage_agreements
+# - file: data_sharing_agreements
+# - file: data_sharing_templates

@@ -1,6 +1,26 @@
-# Data Sharing Agreement
+(dsa)= 
+# Data Sharing Agreements 
 
-A data sharing agreement is crucial between two institutions before sharing medical data, for ensuring legal compliance, protecting patient privacy and data security, and clearly defining the terms and conditions of the data sharing arrangement, which are particularly critical when handling sensitive medical data.
+
+A Data Sharing Agreement (DSA) is a document **between two institutions** before sharing medical data, for ensuring **legal compliance**, protecting **patient privacy and data security**, and clearly defining the **terms and conditions of the data sharing arrangement**, which are particularly critical when handling sensitive medical data.
+
+```{figure} ./figures/dsa.png
+:label: dsa
+:alt: dsa
+:height: 300px
+:align: center
+```
+
+
+
+## Templates of Data Sharing Agreements
+
+<!-- ? -->
+:::{admonition} ?
+:class: note
+:class: dropdown
+
+<div style="background-color: #f4f4f4; padding: 15px;">
 
 1.  **Privacy and Confidentiality**: Medical data often contains sensitive personal information. A data sharing agreement ensures that both parties adhere to strict confidentiality protocols to protect patient privacy in compliance with laws like HIPAA (Health Insurance Portability and Accountability Act) in the United States, GDPR (General Data Protection Regulation) in the European Union, and other local data protection regulations.
 
@@ -24,5 +44,16 @@ A data sharing agreement is crucial between two institutions before sharing medi
 
 The data sharing agreement ought to undergo scrutiny by the legal departments of both institutions involved. It is important that the agreement be formally endorsed by the legal representatives of the respective institutions, rather than at the individual researcher level.
 
-------------------------------------------------------------------------
+</div>
+:::
 
+<!-- Schulthess Klinik, Zürich, Switzerland -->
+:::{admonition} Schulthess Klinik, Zürich, Switzerland
+:class: note
+:class: dropdown
+
+The Data Sharing Agreement of the Schulthess Klinik can be [downloaded here](documents/Schulthess_data_sharing_agreement_template.pdf).
+
+:::
+
+---
