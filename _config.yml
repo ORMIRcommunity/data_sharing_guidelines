@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: ORMIR Data Sharing Index Guidelines
+title: ORMIR Data Sharing Guidelines
 author: Open and Reproducible Musculoskeletal Imaging Research Community
 #logo: logo.png
 
@@ -9,15 +9,13 @@ author: Open and Reproducible Musculoskeletal Imaging Research Community
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: force
-
-# # Define the name of the latex output file for PDF builds
-# latex:
-#   latex_documents:
-#     targetname: book.tex
-
-# # Add a bibtex file so that we can create citations
-# bibtex_bibfiles:
-#   - references.bib
+  
+# References
+bibtex_bibfiles:
+    - references.bib
+sphinx:
+  config:
+    bibtex_reference_style: author_year
 
 # Specify the list of extensions to use
 markdown_extensions:
