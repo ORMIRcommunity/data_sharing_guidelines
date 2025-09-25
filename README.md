@@ -1,4 +1,4 @@
-# Data sharing guidelines of the ORMIR community
+# Data sharing guidelines by the ORMIR community
 
 This repository contains the source code of a Jupyter Book with guidelines and consent form examples for MSK data sharing.
 These guidelines were developed during the 2nd ORMIR workshop [Sharing and Curating Open Data in Musculoskeletal Imaging Research](https://www.ormir.org/events.html#:~:text=Sharing%20and%20Curating%20Open%20Data%20in%20Musculoskeletal%20Imaging%20Research) in Zurich, Switzerland, 15-18 January 2024. 
