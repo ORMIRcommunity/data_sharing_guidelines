@@ -133,7 +133,7 @@ NO
 
 
 <!-- Schulthess Klinik, Zürich, Switzerland -->
-:::{admonition} Schulthess Klinik, Zürich, Switzerland
+<!-- :::{admonition} Schulthess Klinik, Zürich, Switzerland
 :class: note
 :class: dropdown
 
@@ -152,7 +152,7 @@ Normally, all data is evaluated as a whole and the results are published in summ
 If results from the data are commercialized, I am not entitled to a share of the commercial use.
 
 </div>
-:::
+::: -->
 
 
 <!-- UK Biobank -->

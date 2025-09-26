@@ -16,7 +16,7 @@ A Data Sharing Agreement (DSA) is a document **between two institutions** before
 ## Templates of Data Sharing Agreements
 
 <!-- ? -->
-:::{admonition} ?
+:::{admonition} Example
 :class: note
 :class: dropdown
 
@@ -48,12 +48,12 @@ The data sharing agreement ought to undergo scrutiny by the legal departments of
 :::
 
 <!-- Schulthess Klinik, Zürich, Switzerland -->
-:::{admonition} Schulthess Klinik, Zürich, Switzerland
+<!-- :::{admonition} Schulthess Klinik, Zürich, Switzerland
 :class: note
 :class: dropdown
 
 The Data Sharing Agreement of the Schulthess Klinik can be [downloaded here](documents/Schulthess_data_sharing_agreement_template.pdf).
 
-:::
+::: -->
 
 ---
