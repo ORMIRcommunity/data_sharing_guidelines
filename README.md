@@ -16,5 +16,11 @@ In alphabetical order:
 - [Serena Bonaretti](https://sbonaretti.github.io/)
 - [Vincent Stadelman](https://www.schulthess-klinik.ch/de/spezialist/vincent-stadelmann-phd-emba)
 
+## Citation
+If you use this work, you can cite it as:
+Burghardt, A., Wong, A. K. O., Taddei, F., Stok, K., Manske, S., Bonaretti, S., & Stadelmann, V. (2025). ORMIR Data sharing guidelines (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17202649
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17202649.svg)]((https://doi.org/10.5281/zenodo.17202649))
+
+
 ## Questions and contribution
 If you have any questions or you would like to contribute, email to ormircommunity@gmail.com. We will be happy to get in touch with you! 
