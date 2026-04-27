@@ -1,0 +1,17 @@
+version: 1
+project:
+  title: ORMIR Data Sharing Guidelines
+  github: ORMIRcommunity/ormir_index_guidelines
+  toc:
+    - file: index.md
+    - file: cf.md
+    - file: dua.md
+    - file: dsa.md
+    - file: anonymization.md
+    - file: repositories.md
+site:
+  options:
+    favicon: figures/favicon.ico
+    logo: figures/logo.png
+    folders: true
+  template: book-theme

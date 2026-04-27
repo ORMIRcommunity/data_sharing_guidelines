@@ -1,6 +1,12 @@
+.gitignore
 OpenBrain2MSK_Ultimate_consent_form.odt
 .Rproj.user
 .DS_Store
 *.Rproj
 _build/*
 .ipynb_checkpoints/*
+
+# MyST build outputs
+_build
+._config.yml.bak
+._toc.yml.bak
