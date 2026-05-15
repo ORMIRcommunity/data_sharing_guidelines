@@ -15,3 +15,5 @@ site:
     logo: figures/logo.png
     folders: true
   template: book-theme
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md

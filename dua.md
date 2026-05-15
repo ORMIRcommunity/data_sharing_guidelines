@@ -1,11 +1,11 @@
 (dua)=
 # Data User Agreements
 
-A Data Use Agreement (DUA) is a formal contract between a data provider---usually a repository---and a data recipient---usually a researcher using the data---that outlines the **specific terms and conditions under which the data can be accessed, shared, and used**. It defines the responsibilities of both parties, establishes privacy and security requirements, and specifies any restrictions on how the data may be used
+A Data Use Agreement (DUA) is a formal contract between a data provider — usually a repository — and a data recipient — usually a researcher using the data — that outlines the **specific terms and conditions under which the data can be accessed, shared, and used**. It defines the responsibilities of both parties, establishes privacy and security requirements, and specifies any restrictions on how the data may be used
 
 ```{important}
-A Data Use Agreement allows controlling **what happens to the data when it is shared** in a repository. It does not provide a legal basis to share personal data---the informed consent does. 
-<!-- It can be a legal instrument if the data are shared for further processing with similar purposes as the original research project---it gives a legal basis to the secondary data user.  -->
+A Data Use Agreement allows controlling **what happens to the data when it is shared** in a repository. It does not provide a legal basis to share personal data — the informed consent does. 
+<!-- It can be a legal instrument if the data are shared for further processing with similar purposes as the original research project — it gives a legal basis to the secondary data user.  -->
 ```
 
 ```{figure} ./figures/dua.png

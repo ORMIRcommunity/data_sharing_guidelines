@@ -7,7 +7,7 @@
 
 **Sharing data** is an **essential** aspect of Open Science for **advancing scientific progress**, **fostering transparency** in research, and **maximizing the effective use** of public investments and research resources {cite:p}`Jwa2022`.
 
-Sharing data is increasingly encouraged across various research fields and more and more required by funding agencies. In **Musculoskeletal (MSK) Imaging**, the amount of shared data is still limited. Some of the main **challenges** refer to the understanding of the **complex regulatory landscape**---particularly concerning ethical and legal issues, such as data privacy---and **technical competences**---including data de-identification, data anonymization, and choosing a data repository.  
+Sharing data is increasingly encouraged across various research fields and more and more required by funding agencies. In **Musculoskeletal (MSK) Imaging**, the amount of shared data is still limited. Some of the main **challenges** refer to the understanding of the **complex regulatory landscape** — particularly concerning ethical and legal issues, such as data privacy — and **technical competences** — including data de-identification, data anonymization, and choosing a data repository.  
 
 
 In these **guidelines**, we aim to **clarify** the main aspects involved in sharing MSK Imaging data, with the **hope to facilitate data sharing** in the MSK imaging scientific community. We will often refer to the ongoing work in the Neuroimaging scientific community, where a more extensive body of literature and data repositories are already established.
@@ -47,7 +47,7 @@ In addition, it is responsability of the researchers to **de-identify** or **ano
 The material you'll find in these guidelines is meant to **support you in the conversation** with your Institution and your local Ethical Committee, so that you can share your study data with other researchers. 
 
 ```{important}
-All guidelines refer to **research data**---that is, data collected during research studies to answer specific scientific questions or hypotheses---and ***not* clinical data**---that is, data collected as part of routine medical care 
+All guidelines refer to **research data** — that is, data collected during research studies to answer specific scientific questions or hypotheses — and ***not* clinical data** — that is, data collected as part of routine medical care 
 ```
 
 In these guidelines, you will find:
@@ -66,13 +66,13 @@ These guidelines refer to **secondary research**, which refers to research use o
 
 ## Variations among countries, states, and institutions
 
-There are several differences among countries, states, and institutions about the legislation concerning data sharing. Here are some of the peculiarities for European Union and United States---if you want to add the documentation about your country, please contribute to this page!
+There are several differences among countries, states, and institutions about the legislation concerning data sharing. Here are some of the peculiarities for European Union and United States — if you want to add the documentation about your country, please contribute to this page!
 
 
 ### General regulations
 In the **European Union**, data sharing is based on the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/), released in 2018 {cite:p}`Bannier2021`. The GDPR concerns data storage, transfer, and sharing both within and outside the European Union and gives the institutions a greater responsability to safeguard the privacy of personal data {cite:p}`White2022`.
 
-In the **United States**, data sharing is based on the [Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html) (National Commission for the Protection of Human Subjects of Biomedical and Biobehavioral Research, 1978), which laid out three core ethical principles, that is, respect for persons, beneficence, and justice. The implementation of the ethical principles of the Belmont Report resulted in a multitude of federal regulations and policies. Amont these, the [Common Rule](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html)---codified by Department of Health and Human Services---was adopted by many federal departments and operates as the standard for ethical conduct and government-funded research {cite:p}`Jwa2022`. The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/index.html) is a federal law enacted to protect the privacy and security of individuals' medical records and other personal health information. It governs how healthcare providers, insurance companies, and other entities handle patient data. For a complete overview of the legal landscape in the United States, we recommend the article by {cite:p}`Jwa2022`. 
+In the **United States**, data sharing is based on the [Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html) (National Commission for the Protection of Human Subjects of Biomedical and Biobehavioral Research, 1978), which laid out three core ethical principles, that is, respect for persons, beneficence, and justice. The implementation of the ethical principles of the Belmont Report resulted in a multitude of federal regulations and policies. Amont these, the [Common Rule](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html) — codified by Department of Health and Human Services — was adopted by many federal departments and operates as the standard for ethical conduct and government-funded research {cite:p}`Jwa2022`. The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/index.html) is a federal law enacted to protect the privacy and security of individuals' medical records and other personal health information. It governs how healthcare providers, insurance companies, and other entities handle patient data. For a complete overview of the legal landscape in the United States, we recommend the article by {cite:p}`Jwa2022`. 
 
 **International** recommendations by the World Medical Association include the [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/) (2001), which defines ethical principles for medical research involving human subjects and the [Declaration of Taipei](https://www.wma.net/what-we-do/medical-ethics/declaration-of-taipei) (2017) which defines ethical principles for health databases, big data, and biobanks {cite:p}`Bannier2021`. 
 
@@ -83,6 +83,31 @@ Knowing who owns the data is important because "whoever owns the data has contro
 - **Study participants**. The European GDPR provides more rights to the individuals, including the "Right to be Forgotten", that is, the right to request to erase personal paper and electronic research history {cite:p}`White2022`
 
 Currently, there is **no consensus** on data ownership.
+
+
+---
+
+## About these guidelines
+
+The development of these guidelines started during the 2{sup}`nd` ORMIR workshop [Sharing and Curating Open Data in Musculoskeletal Imaging Research](https://www.ormir.org/events.html#:~:text=Sharing%20and%20Curating%20Open%20Data%20in%20Musculoskeletal%20Imaging%20Research) in Zurich, Switzerland, 15-18 January 2024.  
+The authors and maintainers are (in alphabetical order):
+[Andrew Burghardt](https://profiles.ucsf.edu/andrew.burghardt), 
+[Andy Kin On Wong](https://rsi.utoronto.ca/faculty/andy-kin-wong), 
+[Fulvia Taddei](http://www.ior.it/en/ricerca-e-innovazione/fulvia-taddei-biomedical-engineer), 
+[Kathryn Stok](https://findanexpert.unimelb.edu.au/profile/778607-kathryn-stok), 
+[Sarah Manske](https://cumming.ucalgary.ca/departments/radiology/profiles/sarah-manske), 
+[Serena Bonaretti](https://sbonaretti.github.io/), and 
+[Vincent Stadelman](https://www.schulthess-klinik.ch/de/spezialist/vincent-stadelmann-phd-emba).
+
+### Citation
+If you use this work, please cite it as:
+
+> Burghardt, A., Wong, A. K. O., Taddei, F., Stok, K., Manske, S., Bonaretti, S., & Stadelmann, V. (2025). ORMIR Data sharing guidelines (v1.0). Zenodo. 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17202649.svg)]((https://doi.org/10.5281/zenodo.17202649))
+
+
+## Contribute!
+If you would like to contribute, send a pull request to our [GitHub repository](https://github.com/ORMIRcommunity/data_sharing_guidelines/) or email to ormircommunity@gmail.com! We are looking forward to learning from you! 
 
 
 ---
